@@ -1,0 +1,2 @@
+# Call Center Prompt
+This simplistic command-line prompt will read a file with potential candidates and ask the associate to call said candidate and offer a line of credit with a set interest rate. Some candiates are preferred (meaning they get better rates) and if selected, the candidates' information will be moved to a new file.
